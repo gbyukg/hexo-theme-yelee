@@ -10,9 +10,9 @@ menu:
 subnav:
   # RSS plugin: https://github.com/hexojs/hexo-generator-feed
   # Encrypt email 加密邮件地址 http://tool.chacuo.net/commonhideinfo
-  Email: "mailto:123@123.com"
+  Email: "mailto:gbyukg@163.com"
   #新浪微博: "sina weibo"
-  GitHub: "#"
+  GitHub: "https://github.com/gbyukg"
   #V2EX: "#"
   RSS: "/atom.xml"
   #知乎: "zhihu"
@@ -21,8 +21,8 @@ subnav:
   #Google: "#"
   #Twitter: "#"
   #LinkedIn: "#"
-  #QQ: "#"
-  #微信: "Wechat"
+  QQ: "447181464"
+  #微信: "gbyukg"
   #PayPal: "#"
   #StackOverflow: "#"
   #Instagram: "#"
@@ -52,7 +52,7 @@ open_in_new: false
 favicon: /favicon.png
 
 #你的头像url
-avatar: /img/avatar.png
+avatar: https://avatars0.githubusercontent.com/u/36716?v=3&s=46://avatars0.githubusercontent.com/u/36716?v=3&s=460
 
 #是否开启分享
 share: true
@@ -69,8 +69,8 @@ disqus:
   # you have set "disqus_shortname" in your site's "_config.yml" 
 
 duoshuo: 
-  #on: true
-  domain: 
+  on: true
+  domain: gbyukg
   # 是否开启多说评论，http://duoshuo.com/create-site/
   # 使用上面网址登陆你的多说，然后创建站点，在 domain 中填入你设定的域名
   # http://你的多说域名.duoshuo.com
@@ -89,7 +89,7 @@ tagcloud: true
 
 #是否开启友情链接
 #不开启——
-#friends: false
+friends: false
 #开启——
 friends:
   Hexo: https://hexo.io
@@ -100,7 +100,7 @@ friends:
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 专注于前端
+aboutme: 小码农至老码农
 
 #是否显示边栏中的搜索框 
 #Search Box in left column
